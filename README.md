@@ -5,7 +5,7 @@ dockerized [cdk8s-cli](https://cdk8s.io/)
 
 ## Usage
 
-Please replace ${project_name} when using following commands.
+Please replace ${project_name} when using the following commands.
 
 ### [Create New Project](https://github.com/awslabs/cdk8s/blob/master/docs/getting-started/typescript.md#new-project)
 run the following command in an empty directory.
